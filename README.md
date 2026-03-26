@@ -81,10 +81,8 @@ OUTPUT GRAPH
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/069c01f2-4d7c-487d-aa84-1c70b29a6052" />
 
 TABULAR COLUMN
+<img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/28448b65-bcce-4d4b-9edf-07d5783867b6" />
 
-
-
-![mean and variance ](https://github.com/user-attachments/assets/50960087-2cff-4f78-981c-b2d53ada656e)
 
 RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
