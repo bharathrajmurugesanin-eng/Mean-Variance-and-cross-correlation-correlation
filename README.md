@@ -81,8 +81,7 @@ OUTPUT GRAPH
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/069c01f2-4d7c-487d-aa84-1c70b29a6052" />
 
 TABULAR COLUMN
-![WhatsApp Image 2026-03-26 at 10 11 47 AM](https://github.com/user-attachments/assets/79abdbe4-1ccd-4908-ae15-701b05be52e4)
-
+![mean and variance ](https://github.com/user-attachments/assets/6d1817f1-d31f-4196-8767-03891e9b8f79)
 
 
 RESULT:
