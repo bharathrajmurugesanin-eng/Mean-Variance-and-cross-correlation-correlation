@@ -83,7 +83,6 @@ OUTPUT GRAPH
 TABULAR COLUMN
 ![mean and variance ](https://github.com/user-attachments/assets/6d1817f1-d31f-4196-8767-03891e9b8f79)
 
-
 RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
 
