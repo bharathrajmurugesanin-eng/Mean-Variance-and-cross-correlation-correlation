@@ -81,7 +81,7 @@ OUTPUT GRAPH
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/069c01f2-4d7c-487d-aa84-1c70b29a6052" />
 
 TABULAR COLUMN
-<img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/28448b65-bcce-4d4b-9edf-07d5783867b6" />
+![WhatsApp Image 2026-03-26 at 10 11 47 AM](https://github.com/user-attachments/assets/38305772-6e81-48b9-a999-91d1f20a262e)
 
 
 RESULT:
